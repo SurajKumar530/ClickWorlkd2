@@ -14,4 +14,6 @@ var dataSavedArray : [Recipe] = []
  
 var dataSavedKey = "dataSavedArray"
 
+var dataSavedKey2 = "dataSavedArray2"
 
+var dataSavedKey3 = "dataSavedArray3"
